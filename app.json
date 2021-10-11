@@ -1,36 +1,27 @@
 {
-    "name": "Torrent Search Bot by @DinuraNikalansuriya",
-    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @DinuraNikalansuriya",
+    "name": "Powerful Chat Bot by @SanilaRanatunga",
+    "description": "A Simple & Powerful Telegram Chat bot in Pyrogram by @SanilaRanatunga",
     "logo": "https://telegra.ph/file/6eee2b4223756758c55f2.jpg",
     "keywords": [
         "telegram",
-        "inline",
-        "torrent",
-        "search",
-        "bot"
+        "Simple",
+        "Chat",
+        "Bot"
     ],
-    "repository": "https://github.com/Dinuraofficial/torrentbot",
-    "website": "https://github.com/Dinuraofficial",
-    "success_url": "https://t.me/Dinuranikalansuriya",
+    "repository": "https://github.com/sanila2007/Chat-Bot",
+    "website": "https://github.com/sanila2007",
+    "success_url": "https://t.me/SanilaRanatunga",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org "
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org "
-        },
-        "SESSION_NAME": {
-            "description": "Any Bot Session Name. You can keep default!",
-            "value": "Torrent-Search-Bot"
+       
         },
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token by @BotFather"
-        },
-        "MAX_INLINE_RESULTS": {
-            "description": "Max Telegram Inline Search Result. Keep Default!",
-            "value": "50",
-            "required": false
-        }
+     }
     },
     "buildpacks": [
         {
