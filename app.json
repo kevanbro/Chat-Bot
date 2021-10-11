@@ -1,12 +1,13 @@
 {
-    "name": "Powerful Chat Bot by @SanilaRanatunga",
-    "description": "A Simple & Powerful Telegram Chat bot in Pyrogram by @SanilaRanatunga",
-    "logo": "https://telegra.ph/file/6eee2b4223756758c55f2.jpg",
+    "name": "A Powerful & Simple Chat Bot by @SanilaRanatunga",
+    "description": "A Simple & Powerful Chat bot in Pyrogram by @SanilaRanatunga",
+    "logo": "https://telegra.ph/file/e2c87988f57e1811c35c6.jpg",
     "keywords": [
         "telegram",
+        "Powerful,",
         "Simple",
         "Chat",
-        "Bot"
+        "bot"
     ],
     "repository": "https://github.com/sanila2007/Chat-Bot",
     "website": "https://github.com/sanila2007",
@@ -17,11 +18,19 @@
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org "
-       
+        },
+        "SESSION_NAME": {
+            "description": "Any Bot Session Name. You can keep default!",
+            "value": "Torrent-Search-Bot"
         },
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token by @BotFather"
-     }
+        },
+        "MAX_INLINE_RESULTS": {
+            "description": "Max Telegram Inline Search Result. Keep Default!",
+            "value": "50",
+            "required": false
+        }
     },
     "buildpacks": [
         {
