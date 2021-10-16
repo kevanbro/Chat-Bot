@@ -1,5 +1,5 @@
 import Constents as keys
-from telegram.ext import *
+from pyrogram import *
 import Responses as R
 
 print("Bot started...(A bot by @SanilaRanatunga)")
