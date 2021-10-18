@@ -9,13 +9,13 @@ print("Bot started...(A bot by @SanilaRanatunga)")
 def start_command(update, context):
     #return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("Owner", url="https://t.me/SanilaRanatunga")],
+        [InlineKeyboardButton("Owner🔥", url="https://t.me/SanilaRanatunga")],
         [InlineKeyboardButton(
             "Report Bugs 😊", url="https://t.me/SanilaRanatunga")],
-         [InlineKeyboardButton("Torrent Download bot of me😎😋", url="https://t.me/torrentdownloader88_bot")],
-        [InlineKeyboardButton("Song Download bot of me😎😋", url="https://t.me/songdownload597_bot")],
-        [InlineKeyboardButton("Powerful Chat Bot of me😎😋", url="https://t.me/useful_powerful_chat_bot")]
-        
+         [InlineKeyboardButton("To Download Torrent files🤖", url="https://t.me/torrentdownloader88_bot")],
+        [InlineKeyboardButton("To Download Songs🤖", url="https://t.me/songdownload597_bot")],
+        [InlineKeyboardButton("To Download Youtube Videos🤖", url="https://t.me/youtubevideodownloader45_bot")]
+        [InlineKeyboardButton("Source Code🚥", url="https://github.com/sanila2007/Chat-Bot")]
     ]) 
     update.message.reply_text('Welcome to Useful & Powerful Chat bot🤗\nJust type random to get started✍\nHavent any idea about hove to use me🤔 type /help\n(A bot by @SanilaRanatunga)')
 
