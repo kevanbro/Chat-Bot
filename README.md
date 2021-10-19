@@ -6,22 +6,26 @@
 - ✨ Improved Chat Experience
 - ✨ Removed Some Unnecessary Commands
 - ✨ Added Facility to download songs
+- ✨ Added Facility to download videos
+- ✨ Added Facility to download torrent files
+- ✨ Fixed errors while downloading songs
+- ✨ Added new command 
 
 
 
-##Very Simple🙂
+<h2>Very Simple🙂</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/dba198232d7cb5d93996c.jpg">
   
 
-##Can do so many things in one bot😎🔥
+<h2>Can do so many things in one bot😎🔥</h2>
   
 <p align="center">
   <img src="https://telegra.ph/file/9d03c094dc90f97208321.jpg">
   
   
-##You can chat with this bot like chatting with a human🤵
+<h2>You can chat with this bot like chatting with a human🤵</h2>
   
 <p align="center">
   <img src="https://telegra.ph/file/ecb1f0bed0a7fbdded51a.jpg">
