@@ -14,6 +14,45 @@ def sample_responses(input_text):
 
     if user_message in ("bye","byee"):
         return "Bye! have a good day and Im waiting to chat with you again😊"
+    
+    if user_message in ("i'm fine.","im fine.","im fine","i'm fine"):
+        return "Happy to hear that🤗"
+    
+    if user_message in ("what is your hobby?","what is your hobby?","what's your hobby?","what's your hobby"):
+        return "Helping others🙈"
+    
+    if user_message in ("What's new","What's new?"):
+        return "New Features in this version🔥\n✨Improvements of chat experience\n✨Removed some commands\n✨Made easier to use\n✨Youtube video downloading errors fixed\n✨Songs downloading errors fixed"
+    
+    if user_message in ("Are you lazy?","Are you lazy"):
+        return "No, I'm not🙈"
+    
+    if user_message in ("son of the bitch"):
+        return "What are you talking😣"
+    
+    if user_message in ("Can you tell me a secret","Tell me a secret"):
+        return "I haven't bathed yet😉😅"
+    
+    if user_message in ("i don't like you","I dont like you","I do not like you"):
+        return "Why😥"
+    
+    if user_message in ("Download me a song.","Download me a song"):
+        return "Just type /song🙃"
+    
+    if user_message in ("Who created you?","Who created you"):
+        return "@SanilaRanatunga😊"
+    
+    if user_message in ("Good morning.","Good Morning"):
+        return "Good morning🙂"
+    
+    if user_message in ("Good night.","Good Night"):
+        return "Good night😴"
+    
+    if user_message in ("Sing me a poem","Sing a poem"):
+        return "I dont know how to sing😑"
+    
+    if user_message in ("good afternoon"):
+        return "good afternoon🤤"
 
     if user_message in ("What can you do?","What can you do"):
         return "I can tell you the local time (send me msg as time), and chat with you when you feel lazy🥱 and soo many things🙂🤗"
